@@ -38,7 +38,7 @@ http://192.168.2.1:9009/rtp/239.45.0.2:5140
 #EXTINF:-1tvg-id="5"tvg-name="CCTV5"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"group-title="央视",CCTV-5体育-高清
 http://192.168.2.1:9009/rtp/239.45.1.69:5140
 #EXTINF:-1tvg-id="6"tvg-name="CCTV5+"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"group-title="央视",CCTV体育赛事-高清
-http://39.135.55.105:6610/PLTV/88888888/224/3221225821/index.m3u8?
+http://111.20.33.93/PLTV/88888893/224/3221226221/index.m3u8
 #EXTINF:-1tvg-id="7"tvg-name="CCTV6"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"group-title="央视",CCTV-6电影-高清
 http://192.168.2.1:9009/rtp/239.45.1.70:5140
 #EXTINF:-1tvg-id="8"tvg-name="CCTV7"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png"group-title="央视",CCTV-7国防军事-高清
@@ -54,7 +54,6 @@ http://192.168.2.1:9009/rtp/239.45.1.196:5140
 #EXTINF:-1tvg-id="13"tvg-name="CCTV12"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png"group-title="央视",CCTV-12社会与法-高清
 http://192.168.2.1:9009/rtp/239.45.3.10:5140
 #EXTINF:-1tvg-id="14"tvg-name="CCTV13"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png"group-title="央视",CCTV-13新闻-高清
-http://39.135.55.105:6610/PLTV/88888888/224/3221226985/index.m3u8?
 http://192.168.2.1:9009/rtp/239.45.1.198:5140
 #EXTINF:-1tvg-id="15"tvg-name="CCTV14"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png"group-title="央视",CCTV-14少儿-高清
 http://192.168.2.1:9009/rtp/239.45.3.23:5140
